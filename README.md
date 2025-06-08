@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @dinesh-swami
-- 👀 I’m interested in ...programing / cyber-security /ai
-- 🌱 I’m currently learning - ai 
+- 👀 I'm deeply interested in **Programming**, **Machine Learning**, **Artificial Intelligence**, and **Future Technology**.
+- 🌱 Currently learning:
+  - 🔹 Full Stack Web Development  
+  - 🔹 AI/ML Fundamentals  
+  - 🔹 Problem Solving & Logic Building- 🌱 I’m currently learning - AI/ML/ full stake devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me dinesh907989@gmail.com
+
 
 <!---
 dinesh-swami/dinesh-swami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
