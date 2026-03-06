@@ -59,7 +59,26 @@
   <img src="https://img.shields.io/badge/Future%20Tech-Builder-39FF14?style=flat-square&labelColor=black" />
 </p>
 
+### 🌌 My Story
 
+> I'm **Dinesh Swami** — a 19-year-old developer with an **obsession for building things that matter**.
+>
+> I believe technology is the most powerful lever to change the world. That's why I wake up every day with a mission: to become a **world-class developer** and create software that impacts millions.
+>
+> Currently mastering the art of **Full Stack Development** while exploring the frontier of **Artificial Intelligence & Machine Learning** — because the future belongs to those who build it.
+>
+> Every line of code I write is a step toward that future. 🚀
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
