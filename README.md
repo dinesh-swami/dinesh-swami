@@ -154,6 +154,115 @@
 
 
 
+
+
+
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🌐 CONNECT SECTION 🌐                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 LET'S CONNECT & BUILD TOGETHER
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7B2FBE&height=2&width=100%"/>
+
+<br/>
+
+<a href="https://github.com/dinesh-swami">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dinesh-swami-75388736a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/DineshSwami001">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/7dinesh_swami">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:dinesh907989@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+**💼 Open to:** Internships, Collaborations, Open Source, Freelance Projects
+
+**📧 Reach me:** [dinesh907989@gmail.com](mailto:dinesh907989@gmail.com)
+
+**⚡ Response time:** Usually within 24 hours
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    📈 MISC STATS 📈                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📈 CONTRIBUTION METRICS
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dinesh-swami&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=12&layout=compact" alt="Wakatime Stats" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER SECTION                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D4FF,100:0D1117&height=150&section=footer&text=Thanks+for+visiting!+🚀&fontSize=28&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn&fontFamily=Orbitron" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Always+open+to+collaboration;🚀+Let's+build+something+amazing+together!;💙+Code+with+Passion%2C+Build+with+Purpose)](https://git.io/typing-svg)
+
+<br/>
+
+**Made with 💙 by [Dinesh Swami](https://github.com/dinesh-swami) | Powered by Passion & Caffeine ☕**
+
+![Last Updated](https://img.shields.io/badge/Last_Updated-2025-00D4FF?style=flat-square&labelColor=0D1117)
+![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square&labelColor=0D1117)
+![Open Source](https://img.shields.io/badge/Open-Source-7B2FBE?style=flat-square&labelColor=0D1117)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @dinesh-swami
 - 👀 I'm deeply interested in **Programming**, **Machine Learning**, **Artificial Intelligence**, and **Future Technology**.
 - 🌱 Currently learning:
